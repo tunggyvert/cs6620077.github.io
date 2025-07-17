@@ -1,0 +1,28 @@
+.yellow-bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+.gray-bg{
+    background-color: gray;
+}
+
+#year{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+/*lab2-3 */
+.table{
+    border-collapse: collapse;
+    margin: 20px;
+    padding: 10px;
+}
+td{
+    border: 1px solid black;
+    padding: 10px 20px;
+    text-align: center;
+}
+tr:hover {
+    background-color: #00e6e6; 
+    cursor: pointer;
+}
